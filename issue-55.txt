@@ -1,2 +1,3 @@
-Esto no es un bug
+Esto un bug
+una linea nueva
 te digo que si
